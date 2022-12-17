@@ -1,2 +1,2 @@
-# judge-dredd-grade
+# judge-dredd-grade-rest-api
 REST API Grade
